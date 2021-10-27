@@ -1,11 +1,5 @@
 {
   "dependencies": {
-    "com.stylecop.analyzer": {
-      "version": "file:Unity-StyleCop",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
-    },
     "com.unity.collab-proxy": {
       "version": "1.7.1",
       "depth": 0,
